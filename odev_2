@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<img lang="tr">
+    <head>
+    <meta charset="UTF-8">
+    <title>Mimarble</title>
+    </head>
+    <h1>Mehmet Ali KIMICI</h1>
+    <h2>Hakkımda</h2>
+    <!-- Hakkında kısmı genişletilebilir -->
+        <p>Merhaba.Ben Mehmet Ali KIMICI. Bursa'da yaşıyorum. Mimarlık bölümü mezunuyum. Eğitimleriniz için şimdiden teşekkürler!.</p>
+    <!-- Dizi kısmı genişletilebilir -->
+    <h2>Sevdiğim Diziler</h2>
+    <ul>
+        <li><a href="https://www.imdb.com/title/tt3581920/?ref_=nv_sr_srsg_0">Last Of Us</a></li>
+        <br>
+        <li><a href="https://www.imdb.com/title/tt0108778/?ref_=nv_sr_srsg_2">Friends</a></li>
+        <br>
+        <li><a href="https://www.imdb.com/title/tt1442437/?ref_=nv_sr_srsg_0">Modern Family</a></li>
+        <br><hr>
+    </ul>
+    <h2>Sevdiğim Oyunlar</h2>
+    <ol>
+        <li>PUBG</li>
+        <li>Rainbow 6</li>
+        <li>VALORANT</li>
+    </ol>
+        <hr>
+    <img src="936378.jpg" John Wick Illustration" width="70%"><br>
+    <p>Sevdiğim bir film olan John Wick'in bir illustrasyonu</p>
+
+
+
+
+
+</html>
