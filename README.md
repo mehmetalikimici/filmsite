@@ -7,5 +7,7 @@
   <li>Design is responsive.</li>
 </ul>
 <h2>Screen</h2>
-![film sitesi](https://github.com/mehmetalikimici/filmsite/assets/115737497/2de6be6c-b059-4675-8d2c-5e3136908d3c)
+
+![film](https://github.com/mehmetalikimici/filmsite/assets/115737497/3f5bfa35-a266-40eb-8579-456ed4f94c91)
+
 
